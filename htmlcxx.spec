@@ -16,7 +16,7 @@ Group:		Development/Other
 License:	LGPLv2
 URL:		http://htmlcxx.sourceforge.net/
 Source0:	https://sourceforge.net/projects/htmlcxx/files/v%{version}/%{name}-%{version}.tar.gz
-#Patch0:		htmlcxx-0.86-linking.patch
+Patch0:		htmlcxx-0.86-linking.patch
 
 %description
 htmlcxx is a simple non-validating css1 and html parser for C++.
