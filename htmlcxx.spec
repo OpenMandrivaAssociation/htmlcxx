@@ -10,7 +10,7 @@
 
 Name:		htmlcxx
 Version:	0.87
-Release:	1
+Release:	2
 Summary:	htmlcxx is a simple non-validating css1 and html parser for C++
 Group:		Development/Other 
 License:	LGPLv2
