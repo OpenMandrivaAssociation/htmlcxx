@@ -18,6 +18,11 @@ URL:		https://htmlcxx.sourceforge.net/
 Source0:	https://sourceforge.net/projects/htmlcxx/files/v%{version}/%{name}-%{version}.tar.gz
 Patch0:		htmlcxx-0.86-linking.patch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 htmlcxx is a simple non-validating css1 and html parser for C++.
 Although there are several other html parsers available, htmlcxx has some
